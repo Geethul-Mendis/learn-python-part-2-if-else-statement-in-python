@@ -1,0 +1,27 @@
+import turtle
+
+a=5
+print(a)
+
+b="hello"
+
+credit_card=41111212121212121
+
+geethul_turtle=turtle.Turtle()
+
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+
+elephant_weight=3000
+ant_weight=0.1
+
+
+elephant_weight> ant_wiight
+ square()
